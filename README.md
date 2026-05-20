@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&pause=2000&color=808080&center=true&vCenter=true&width=600&lines=Daffa+Rafi+AL+Faraz;System+Architecture+%7C+Automation;Working+in+the+shadows..." alt="Typing effect" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Daffa%20Rafi%20AL%20Faraz&fontSize=50&fontColor=ffffff&desc=System%20Architecture%20%7C%20Automation&descAlignY=60&descSize=20&descColor=808080" alt="Daffa Rafi AL Faraz Banner" />
 </div>
 
 <br>
@@ -34,11 +34,11 @@
 
 ### Fokus Operasi Saat Ini
 * **Keamanan & Otomatisasi (Node.js):** Merancang bot komunikasi dengan lapisan sistem anti-spam tingkat lanjut dan generator aset dinamis.
-* **Antarmuka Web (Next.js):** Membangun aplikasi web responsif berkinerja tinggi, termasuk platform simulasi mekanik pengetikan.
+* **Antarmuka Web (Next.js):** Membangun aplikasi web responsif berkinerja tinggi, termasuk platform simulasi mekanik pengetikan "KeyboardWomen".
 
 <i>**Current Operational Focus**</i>
 * <i>**Security & Automation (Node.js):** Architecting communication bots with advanced anti-spam system layers and dynamic asset generators.</i>
-* <i>**Web Interfaces (Next.js):** Building high-performance responsive web applications, including mechanical typing simulation platforms.</i>
+* <i>**Web Interfaces (Next.js):** Building high-performance responsive web applications, including the "KeyboardWomen" mechanical typing simulation platform.</i>
 
 <br><br>
 
