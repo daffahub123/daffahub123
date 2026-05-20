@@ -97,11 +97,11 @@
   <hr style="width: 50%; border: 1px solid #333;">
   
   <p>
-    Terdapat keindahan dalam presisi mekanik masa lalu—seperti dentingan mesin tik Olympia Jerman Barat era 70-an—dan saya berusaha membawa tingkat keandalan serta presisi fisik tersebut ke dalam baris kode digital masa kini. Kode yang baik harus berfungsi seperti mesin klasik: tangguh, berkarakter, dan tak lekang oleh waktu.
+    Terdapat keindahan dalam presisi mekanik masa lalu, seperti dentingan mesin tik Olympia Jerman Barat era 70-an—dan saya berusaha membawa tingkat keandalan serta presisi fisik tersebut ke dalam baris kode digital masa kini. Kode yang baik harus berfungsi seperti mesin klasik: tangguh, berkarakter, dan tak lekang oleh waktu.
   </p>
   <p>
     <i>
-      There is beauty in the mechanical precision of the past—like the strike of a 70s West German Olympia typewriter—and I strive to bring that level of physical reliability and precision into today's digital lines of code. Good code should function like a classic machine: robust, full of character, and timeless.
+      There is beauty in the mechanical precision of the past, like the strike of a 70s West German Olympia typewriter—and I strive to bring that level of physical reliability and precision into today's digital lines of code. Good code should function like a classic machine: robust, full of character, and timeless.
     </i>
   </p>
 </div>
