@@ -77,22 +77,16 @@
 <ul>
   <li>
     <strong>Sistem Keamanan & Otomatisasi Jaringan (Node.js)</strong><br>
-    Merancang infrastruktur bot komunikasi tingkat lanjut. Fokus pengembangan meliputi injeksi sistem anti-spam absolut, perlindungan anti-bot, dan integrasi API dinamis (termasuk generator <i>stickermeme</i> otomatis).
-    <br>
-    <i><strong>Network Security & Automation Systems (Node.js)</strong><br>
-    Architecting advanced communication bot infrastructure. Development focus includes the injection of absolute anti-spam systems, anti-bot protection, and dynamic API integrations (including automated stickermeme generators).</i>
+    Merancang infrastruktur bot komunikasi tingkat lanjut. Fokus pengembangan meliputi injeksi sistem anti-spam absolut, perlindungan anti-bot, dan integrasi API dinamis (termasuk generator <i>stickermeme</i> otomatis).<br>
+    <i><strong>Network Security & Automation Systems (Node.js)</strong></i><br>
+    <i>Architecting advanced communication bot infrastructure. Development focus includes the injection of absolute anti-spam systems, anti-bot protection, and dynamic API integrations (including automated stickermeme generators).</i>
   </li>
-</ul>
-
-<br>
-
-<ul>
+  <br>
   <li>
     <strong>Optimalisasi & Analisis Data Sistem</strong><br>
-    Melakukan pembersihan mendalam dan pemantauan ketat terhadap manajemen penyimpanan (*storage*) pada perangkat seluler dan komputasi lokal untuk memastikan sistem berjalan tanpa beban berlebih.
-    <br>
-    <i><strong>System Data Optimization & Analysis</strong><br>
-    Executing deep cleaning and strict monitoring of storage management across mobile and local computing devices to ensure systems run without excessive load.</i>
+    Melakukan pembersihan mendalam dan pemantauan ketat terhadap manajemen penyimpanan (<i>storage</i>) pada perangkat seluler dan komputasi lokal untuk memastikan sistem berjalan tanpa beban berlebih.<br>
+    <i><strong>System Data Optimization & Analysis</strong></i><br>
+    <i>Executing deep cleaning and strict monitoring of storage management across mobile and local computing devices to ensure systems run without excessive load.</i>
   </li>
 </ul>
 
