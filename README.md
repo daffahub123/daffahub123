@@ -88,18 +88,6 @@
 
 <ul>
   <li>
-    <strong>Pengembangan Antarmuka "KeyboardWomen" (Next.js)</strong><br>
-    Membangun aplikasi web simulasi pengetikan mekanik. Berfokus pada presisi *input* pengguna, estetika minimalis, dan manajemen *state* yang mulus di lingkungan bahasa Indonesia.
-    <br>
-    <i><strong>"KeyboardWomen" Interface Development (Next.js)</strong><br>
-    Building a mechanical typing simulation web application. Focused on user input precision, minimalist aesthetics, and seamless state management in an Indonesian language environment.</i>
-  </li>
-</ul>
-
-<br>
-
-<ul>
-  <li>
     <strong>Optimalisasi & Analisis Data Sistem</strong><br>
     Melakukan pembersihan mendalam dan pemantauan ketat terhadap manajemen penyimpanan (*storage*) pada perangkat seluler dan komputasi lokal untuk memastikan sistem berjalan tanpa beban berlebih.
     <br>
