@@ -106,21 +106,21 @@ Building systems that are:
 
 <div align="center">
 
-## ⚡ Frontend Architecture
+##  Frontend Architecture
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,vite"/>
-
-<br><br>
-
-## ⚙️ Backend Infrastructure
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind"/>
 
 <br><br>
 
-## 🛠 Workspace & Tools
+##  Backend Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm,powershell"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,supabase,"/>
+
+<br><br>
+
+##  Workspace & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,npm,powershell"/>
 
 </div>
 
@@ -132,7 +132,7 @@ Building systems that are:
 
 </div>
 
-## 🔴 COMMUNICATION INFRASTRUCTURE
+##  COMMUNICATION INFRASTRUCTURE
 
 ```diff
 + Realtime communication systems
@@ -146,7 +146,7 @@ Building systems that are:
 
 ---
 
-## ⚫ SYSTEM OPTIMIZATION
+##  SYSTEM OPTIMIZATION
 
 ```diff
 + Deep storage cleanup
@@ -159,7 +159,7 @@ Building systems that are:
 
 ---
 
-## 🔥 ACTIVE DEVELOPMENT
+##  ACTIVE DEVELOPMENT
 
 ```yaml
 CURRENT_PROJECTS:
